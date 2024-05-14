@@ -1,7 +1,7 @@
 # todo-app-react-redux
 [View Live](https://todo-list-6453.netlify.app/)
 
-![Demo App](https://i.ibb.co/pbvBfhg/Screenshot-35.png)
+![Demo App](https://i.ibb.co/T2Q5xh5/Screenshot-36.png)
 
 
 Some Features:
