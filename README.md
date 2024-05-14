@@ -1,17 +1,25 @@
 # todo-app-react-redux
-[View Live](https://task-list4.netlify.app/)
-# How to Run Project in our local system
+[View Live](https://todo-list-6453.netlify.app/)
 
-**Install necessary Package**
-***installation command***
+![Demo App](https://i.ibb.co/pbvBfhg/Screenshot-35.png)
 
- - # npm install
- 
-***Run Command***
 
-- # npm run dev
+Some Features:
 
-  
-![todo-app-react-redux](/src/assets/github-cover.png)
-![todo-app-react-redux](/src/assets/tab-view.png)
-![todo-app-react-redux](/src/assets/mobile-view.png)
+-   🌟 Tech stack: React + TailwindCSS 
+-   👾 data saved in LocalStorage
+-   🚀 Attractive user interface 
+-   👌 Responsive UI
+-   ⏳ And much more!
+
+### Build the app
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm run dev
+```
